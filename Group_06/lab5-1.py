@@ -93,7 +93,7 @@ while True:
         oled.fill(0)
         oled.show()
     
-    # State1:Show time
+    # State1:Show Hello
     elif(state==1):
         oled.fill(0)
         oled.text("Hello!", 30, 0)
