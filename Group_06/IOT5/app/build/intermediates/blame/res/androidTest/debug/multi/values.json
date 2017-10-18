@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\.android\\build-cache\\270ff782f06f1c5170cb49efa235b11f1942725c\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\.android\\build-cache\\1e58e94259570721cf7714290d8748b084eb380a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/yangjiaying/.android/build-cache/1e58e94259570721cf7714290d8748b084eb380a/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

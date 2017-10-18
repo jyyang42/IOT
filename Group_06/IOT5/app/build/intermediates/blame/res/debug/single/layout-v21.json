@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\.android\\build-cache\\3efbf092338e2f04b9e06d1e7098754fd8237549\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\.android\\build-cache\\3efbf092338e2f04b9e06d1e7098754fd8237549\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\.android\\build-cache\\44b8a94154c522ef1bb8555cf62e90907263ae24\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\.android\\build-cache\\3efbf092338e2f04b9e06d1e7098754fd8237549\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\.android\\build-cache\\3efbf092338e2f04b9e06d1e7098754fd8237549\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\.android\\build-cache\\44b8a94154c522ef1bb8555cf62e90907263ae24\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\.android\\build-cache\\44b8a94154c522ef1bb8555cf62e90907263ae24\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\.android\\build-cache\\44b8a94154c522ef1bb8555cf62e90907263ae24\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Oct 16 16:18:08 EDT 2017
+base.0=/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

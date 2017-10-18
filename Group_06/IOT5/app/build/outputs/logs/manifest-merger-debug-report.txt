@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yangjiaying/.android/build-cache/779c79543a1ebcd117a33c083fd41a596c5389f2/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/a42be188e843cb3a48e3a8fe21877e354852757e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/5d8fbef38f5e8fdd051fecb4c47adfb5b6a0bd04/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/649fd07c7d9ffbb30e352efc0d2c14cd71847249/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/6f69eeddf9506b9045a050ba80184e7cb3fa4f65/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/f08c3ca47618c107a3c0b3f174235e22ed0459cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/1d85ea9d9d9049efb88a5b097b71ac483761612e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/5282032daec3b771c72ab4ce6d8a824ae86b62b1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/af1ac1b3b969c3eeafcdde93aa75b9e62cfecf2e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/d3caddf2280b0e7c657a604dced4c2f158788c35/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/59126e768196e71c94dcbd5f5a4b633655d5d10f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:15:9-40
+activity#yangjiaying.iot5.MainActivity
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yangjiaying/.android/build-cache/779c79543a1ebcd117a33c083fd41a596c5389f2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/a42be188e843cb3a48e3a8fe21877e354852757e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/5d8fbef38f5e8fdd051fecb4c47adfb5b6a0bd04/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/649fd07c7d9ffbb30e352efc0d2c14cd71847249/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/891103e101cc98d291fcb633b6f1da692d72d13f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/6f69eeddf9506b9045a050ba80184e7cb3fa4f65/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/f08c3ca47618c107a3c0b3f174235e22ed0459cc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/1d85ea9d9d9049efb88a5b097b71ac483761612e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/5282032daec3b771c72ab4ce6d8a824ae86b62b1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/af1ac1b3b969c3eeafcdde93aa75b9e62cfecf2e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/d3caddf2280b0e7c657a604dced4c2f158788c35/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/59126e768196e71c94dcbd5f5a4b633655d5d10f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/a42be188e843cb3a48e3a8fe21877e354852757e/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/a42be188e843cb3a48e3a8fe21877e354852757e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/5d8fbef38f5e8fdd051fecb4c47adfb5b6a0bd04/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/649fd07c7d9ffbb30e352efc0d2c14cd71847249/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/891103e101cc98d291fcb633b6f1da692d72d13f/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/6f69eeddf9506b9045a050ba80184e7cb3fa4f65/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/f08c3ca47618c107a3c0b3f174235e22ed0459cc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/1d85ea9d9d9049efb88a5b097b71ac483761612e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/5282032daec3b771c72ab4ce6d8a824ae86b62b1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/af1ac1b3b969c3eeafcdde93aa75b9e62cfecf2e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/d3caddf2280b0e7c657a604dced4c2f158788c35/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/59126e768196e71c94dcbd5f5a4b633655d5d10f/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/a42be188e843cb3a48e3a8fe21877e354852757e/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/yangjiaying/.android/build-cache/a42be188e843cb3a48e3a8fe21877e354852757e/output/AndroidManifest.xml:26:9-47

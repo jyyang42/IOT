@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

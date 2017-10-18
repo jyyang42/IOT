@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yangjiaying/.android/build-cache/779c79543a1ebcd117a33c083fd41a596c5389f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/pre-dexed/debug/classes_a0c4bdece4ac86dfa70d4fceac4b689c9e635a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangjiaying/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_fcde2e4df3c2eebbbd950cc83a20e599e8377a44.jar" />
+    </item>
+
+</items>

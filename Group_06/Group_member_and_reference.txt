@@ -1,0 +1,7 @@
+Group_06:
+UNI: ct2819   Name: Chee Kit Tang
+UNI: pa2492   Name: Patrick Alrassy
+UNI: jy2857   Name: Jiaying Yang
+
+Reference:
+http://stackandroid.com/tutorial/android-speech-to-text-tutorial/

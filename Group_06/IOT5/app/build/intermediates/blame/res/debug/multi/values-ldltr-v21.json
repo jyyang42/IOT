@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/yangjiaying/.android/build-cache/3efbf092338e2f04b9e06d1e7098754fd8237549/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\Google Drive\\Columbia\\EECSE4764_IoT\\lab\\IOT5-20171013T200752Z-001\\IOT5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\cktang\\.android\\build-cache\\44b8a94154c522ef1bb8555cf62e90907263ae24\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\AndroidStudioProjects\\IOT5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/yangjiaying/Downloads/IOT5-20171013T200752Z-001/IOT5/C:\\Users\\yangjiaying\\.android\\build-cache\\3efbf092338e2f04b9e06d1e7098754fd8237549\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
